@@ -1,0 +1,3 @@
+rootProject.name = "DebugUtilExample"
+include ':app'
+include ':debugutil'
